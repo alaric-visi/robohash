@@ -14,6 +14,14 @@ A simple static web page that generates a grid of unique “robot” avatars by 
 
 ---
 
+## Demo
+
+https://mikehiggins.me.uk/robohash/
+
+---
+
+## Screenshot
+
 <img width="1060" alt="robohash" src="https://github.com/user-attachments/assets/b4594909-6ba5-4555-85aa-b55777426f59" />
 
 
