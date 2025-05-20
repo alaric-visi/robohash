@@ -11,14 +11,9 @@ A simple static web page that generates a grid of unique “robot” avatars by 
 - **Dynamic Image Grid** – Eight robots per load, laid out in a responsive CSS grid.  
 - **Loading Placeholders** – Spinners show while each image loads.  
 - **Easy Refresh** – One button to generate an entirely new set of avatars.  
-- **Custom Styling** – Futuristic Orbitron font with charcoal-themed design.
 
 ---
 
-robohash/
-├── index.html
-├── styles.css
-├── js/
-│   └── script.js
-└── README.md
+<img width="1060" alt="robohash" src="https://github.com/user-attachments/assets/b4594909-6ba5-4555-85aa-b55777426f59" />
+
 
