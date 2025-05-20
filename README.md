@@ -1,6 +1,6 @@
-# robohash
-Random hashed robot images generated through the RoboHash API
 # Robohash
+
+Random hashed robot images generated through the RoboHash API
 
 A simple static web page that generates a grid of unique “robot” avatars by querying the [RoboHash API](https://robohash.org). Click **Refresh Images** to load eight new random robots, complete with a loading spinner placeholder.
 
@@ -16,9 +16,9 @@ A simple static web page that generates a grid of unique “robot” avatars by 
 ---
 
 robohash/
-├── index.html          # Main HTML page
-├── styles.css          # Global and component styles
+├── index.html
+├── styles.css
 ├── js/
-│   └── script.js       # Fetch logic & DOM manipulation
-└── README.md           # This file
+│   └── script.js
+└── README.md
 
