@@ -16,8 +16,8 @@ A simple static web page that generates a grid of unique “robot” avatars by 
 
 ## Demo
 
-https://codepen.io/Mike-J-Higgins/full/emJzKLP
-https://scrapbook.mikehiggins.me.uk/?note=4bc3cb03-bfb4-45e9-8bab-0fa3c586c173
+- https://codepen.io/Mike-J-Higgins/full/emJzKLP
+- https://scrapbook.mikehiggins.me.uk/?note=4bc3cb03-bfb4-45e9-8bab-0fa3c586c173
 
 ---
 
