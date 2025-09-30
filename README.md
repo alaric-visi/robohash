@@ -16,7 +16,7 @@ A simple static web page that generates a grid of unique “robot” avatars by 
 
 ## Demo
 
-https://mikehiggins.me.uk/robohash/
+https://codepen.io/Mike-J-Higgins/full/emJzKLP
 
 ---
 
